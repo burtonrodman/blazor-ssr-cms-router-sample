@@ -1,3 +1,7 @@
+# UPDATE:  Use fallback route
+See this [GitHub issue](https://github.com/dotnet/aspnetcore/issues/53135)
+
+
 # Blazor Custom Router Sample
 
 in RouteManager.cs
